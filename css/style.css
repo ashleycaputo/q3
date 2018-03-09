@@ -1,0 +1,33 @@
+h1 {
+	color: #B3817C;
+	text-align: center;
+	border-top-style: double;
+	border-bottom-style: double;
+	border-color: #D5BBB1;
+}
+h2 {
+	color: #FFFFFF;
+}
+.wrapper {
+	background-color: #D5BBB1;
+	max-width: 80%;
+	margin: 0 auto;
+	border: double;
+	border-color: #DDB3BC;
+}
+a:link {
+	color: #B3817C;
+}
+a:visited {
+	color: #B3817C;
+}
+a:hover {
+	color: #FFFFFF;
+}
+footer {
+	color: #B3817C;
+	text-align: center;
+}
+img {
+	align-content: left;
+}

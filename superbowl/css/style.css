@@ -1,0 +1,39 @@
+img {
+	max-width: 30%;
+	float: right;
+}
+h1 {
+	color: #0E517A;
+	align-content: center;
+}
+h2 {
+	color: #0E517A;
+	align-content: center;
+}
+h3 {
+	color: #0E517A;
+	align-content: center;
+}
+h4 {
+	color: #0E517A;
+	align-content: center;
+}
+ol {
+	color: #5FA8D3;
+	align-content: center;
+}
+p {
+	color: #5FA8D3;
+	align-content: center;
+}
+footer {
+	color: #0E517A;
+	align-content: center;
+}
+section {
+	background-color: #CAE9FF;
+	max-width: 80%;
+	border: double;
+	border-color: #0E517A;
+	align-content: center;
+}

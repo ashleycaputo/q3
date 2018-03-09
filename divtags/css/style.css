@@ -1,0 +1,20 @@
+.wrapper {
+	background-color: #9EC5AB;
+	max-width: 70%;
+	margin: 0 auto;
+	border: dotted;
+	border-color: #104F55;
+}
+h1 {
+	text-align: center;
+	color: #104F55;
+	font-family: comic sans MS;
+}
+section {
+	color: #104F55;
+	font-family: comic sans MS;
+}
+article {
+ 	color: #32746D;
+}
+footer {}

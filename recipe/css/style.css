@@ -1,0 +1,25 @@
+body{
+	background-color: #CCB7AE;
+}
+ul {
+	font-family: courier new;
+	color: #77514A;
+}
+ol {
+	font-family: courier new;
+	color: #77514A;
+}
+h1 {
+	color: #2A0800;
+	font-family: courier new;
+	border-style: double;
+}
+h2 {
+	color: #2A0800;
+	font-family: courier new;
+	border-bottom-style:double;
+}
+img {
+	border-style: double;
+	border-color: #2A0800;
+}
